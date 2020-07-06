@@ -1,0 +1,3 @@
+#通过此自动装配类的全路径装配此类
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.wxy.starter.configuration.CoustomizeStarterAutoConfiguration
